@@ -1,38 +1,77 @@
 <img align="center" width="1000" height="300" src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80/aaryak4554/aaryak4554/main" />
+
 <h1 align="center">Hi, I'm Aarya Khandare</h1>
-<h2 align="center">EE Pre-Final Year @ MNNIT, A
+<h2 align="center">EE Pre-Final Year @ MNNIT, A</h2>
 <h3 align="center">A dedicated front-end developer hailing from Maharashtra, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryak4554&label=Profile%20views&color=0e75b6&style=flat" alt="aaryak4554" /> </p>
 
 - 🌱 I’m currently learning: **React Native, NodeJs, ExpressJs**
-
+  
 - 👨‍💻 All of my projects are available at [https://github.com/aaryak4554](https://github.com/aaryak4554)
-
+  
 - 📫 How to reach me **joinaarya30@gmail.com**
-
-- 📄 Resume: [https://drive.google.com/file/d/1Q0Bm4A79SLJv_zVrJbDtYm9kczxsMWNF/view?usp=drive_link](https://drive.google.com/file/d/1Q0Bm4A79SLJv_zVrJbDtYm9kczxsMWNF/view?usp=drive_link)
+  
+- 📄 Resume:  [https://drive.google.com/file/d/1Q0Bm4A79SLJv_zVrJbDtYm9kczxsMWNF/view?usp=drive_link](https://drive.google.com/file/d/1Q0Bm4A79SLJv_zVrJbDtYm9kczxsMWNF/view?usp=drive_link)
 
 - ⚡ Fun fact- **The only letter of the English alphabet that is not represented by any chemical element symbol on the periodic table is the letter "J."**
+  
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-    <a href="https://medium.com/@zluvsand">
-        <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-rounded-corners/512/Medium_rounded_cr-306.png"/>
+    <a href="https://www.linkedin.com/in/aarya-khandare-50462927a/" alt="linkedin">
+        <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png"/>
     </a>
-    <a href="https://www.linkedin.com/in/zluvsand/">
-        <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>
+    <a href="https://leetcode.com/aaryak4554/" alt="leetcode">
+        <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
     </a>
-    <a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
-        <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/315_Spotify_logo-128.png"/>
+    <a href="https://auth.geeksforgeeks.org/user/joinaarya30/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" alt="gfg">
+        <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"/>
+    </a>
+    <a href="https://www.codechef.com/users/bluegrace0206" alt="codechef">
+        <img height="50" src="https://img.icons8.com/?size=512&id=vAtJFm3hwtQw&format=png"/>
+    </a>
+    <a href="https://codeforces.com/profile/bluegrace0206" alt="codeforces">
+        <img height="50" src="https://img.icons8.com/?size=512&id=jldAN67IAsrW&format=png"/>
+    </a>
+    <a href="https://www.instagram.com/aaryak0206/" alt="instagram">
+        <img height="50" src="https://img.icons8.com/?size=512&id=32323&format=png"/>
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100015673624271" alt="facebook">
+        <img height="50" src="https://img.icons8.com/?size=512&id=uLWV5A9vXIPu&format=png"/>
+    </a>
+    <a href="joinaarya30@gmail.com" alt="mail">
+        <img height="50" src="https://img.icons8.com/?size=512&id=xLIkjgcmFOsC&format=png"/>
     </a>
 </p>
+
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center" padding="10px">
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+<img style="mix-blend-mode: multiply" height=50 src="https://w7.pngwing.com/pngs/724/306/png-transparent-c-logo-c-programming-language-icon-letter-c-blue-logo-computer-program-thumbnail.png"/> 
+<img height=50 src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue-thumbnail.png"/>
+<img height="50" src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle-thumbnail.png"/> 
+<img height="50" src="https://w7.pngwing.com/pngs/393/49/png-transparent-css-logo-thumbnail.png"/>
+<img height="50" src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png"/>
+<img height="50" src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png"/>
+<img height="50" src="https://w7.pngwing.com/pngs/718/753/png-transparent-bootstrap-css3-node-js-logo-github-purple-violet-rectangle-thumbnail.png"/>
+<img height="50" width="70" src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo-thumbnail.png"/>
+<img height="50" src="https://w7.pngwing.com/pngs/240/632/png-transparent-deploying-node-js-website-development-javascript-web-application-vue-js-text-rectangle-logo-thumbnail.png"/>
+<img height="50" src="https://w7.pngwing.com/pngs/182/979/png-transparent-github-repository-commit-version-control-github-angle-rectangle-logo-thumbnail.png"/>
+<img height="50" src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png"/>
+<img height="50" src="https://w7.pngwing.com/pngs/195/496/png-transparent-dribble-logo-thumbnail-tech-companies-thumbnail.png"/>
+<img height="50" src="https://w7.pngwing.com/pngs/710/577/png-transparent-matlab-symbol-thumbnail.png"/>
 </p>
 
+<hr>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/aaryak4554?theme=light&font=PT%20Mono&ext=contest)
+
+<hr>
+
 <img src="https://github-readme-stats.vercel.app/api?username=aaryak4554&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryak4554"/>
-![LeetCode Stats](https://leetcard.jacoblin.cool/aaryak4554?theme=dark&font=Montserrat%20Alternates&ext=contest)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryak4554&layout=compact"/>
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=100%&section=footer"/> </p>

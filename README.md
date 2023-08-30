@@ -67,6 +67,10 @@
 
 <hr>
 
+<h3 align="left">Coding Profiles:</h3>
+
+[![Badge](https://cp-logo.vercel.app/codechef/bluegrace0206)]
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/aaryak4554?theme=light&font=PT%20Mono&ext=contest)
 
 <hr>

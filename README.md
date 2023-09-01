@@ -1,6 +1,6 @@
-<!-- <img align="center" width="1000" height="300" src="https://images.unsplash.com/photo-1534972195531-d756b9bfa9f2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80/aaryak4554/aaryak4554/main" /> -->
+<img align="cente" width="900" height="500" src="https://media.istockphoto.com/id/1306190794/vector/programmer-girl-working-on-the-laptop-programming-and-engineering-concept.jpg?s=612x612&w=0&k=20&c=SgBoKGaZRVOQRcKSR_ZRo46EQLlEEN_Jkq6NSd8d3H0="/>
 
-<h1 align="center">Hi, I'm Aarya Khandare</h1>
+<h1 align="center">Hi👋, I'm Aarya Khandare</h1>
 <h2 align="center">EE Pre-Final Year @ MNNIT, A</h2>
 <h3 align="center">A dedicated front-end developer hailing from Maharashtra, India.</h3>
 

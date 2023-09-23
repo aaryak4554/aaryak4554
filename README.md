@@ -69,12 +69,16 @@
 
 <h3 align="left">Coding Profiles:</h3>
 
-[![Badge](https://cp-logo.vercel.app/codechef/bluegrace0206)]
+![](https://cp-logo.vercel.app/codechef/bluegrace0206) <!-- codechef -->
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/aaryak4554?theme=light&font=PT%20Mono&ext=contest)
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=bluegrace0206) <!-- codeforces -->
+
+<img src="https://atrating.baoshuo.dev/rating?username=aaryak4554"> <!-- atcoder -->
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/aaryak4554?theme=light&font=PT%20Mono&ext=contest) <!-- leetcode -->
 
 <hr>
-
+<!-- github stata -->
 <img src="https://github-readme-stats.vercel.app/api?username=aaryak4554&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryak4554&layout=compact"/>
 

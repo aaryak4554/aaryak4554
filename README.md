@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi👋, I'm Aarya Khandare</h1>
 <h2 align="center">EE Pre-Final Year @ MNNIT, A</h2>
-<h3 align="center">A dedicated front-end developer hailing from Maharashtra, India.</h3>
+<h3 align="center">A dedicated web developer hailing from Maharashtra, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryak4554&label=Profile%20views&color=0e75b6&style=flat" alt="aaryak4554" /> </p>
 

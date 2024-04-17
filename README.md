@@ -1,4 +1,4 @@
-<img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+[![An image of banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi👋, I'm Aarya Khandare</h1>
 <h2 align="center">EE Pre-Final Year @ MNNIT, A</h2>
@@ -12,7 +12,7 @@
   
 - 📫 How to reach me **joinaarya30@gmail.com**
   
-- 📄 Resume:  [https://drive.google.com/file/d/1Q0Bm4A79SLJv_zVrJbDtYm9kczxsMWNF/view?usp=drive_link](https://drive.google.com/file/d/1Q0Bm4A79SLJv_zVrJbDtYm9kczxsMWNF/view?usp=drive_link)
+- 📄 Resume:  [https://drive.google.com/file/d/1MtDhSmjn_ZvV7VTC-RWcI4pWF119LDLc/view?usp=sharing](https://drive.google.com/file/d/1MtDhSmjn_ZvV7VTC-RWcI4pWF119LDLc/view?usp=sharing)
 
 - ⚡ Fun fact- **The only letter of the English alphabet that is not represented by any chemical element symbol on the periodic table is the letter "J."**
   
@@ -21,28 +21,28 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/aarya-khandare-50462927a/" alt="linkedin">
-        <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png"/>
+        <img height="80" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/>
     </a>
     <a href="https://leetcode.com/aaryak4554/" alt="leetcode">
-        <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+        <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
     </a>
     <a href="https://auth.geeksforgeeks.org/user/joinaarya30/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" alt="gfg">
         <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"/>
     </a>
     <a href="https://www.codechef.com/users/bluegrace0206" alt="codechef">
-        <img height="50" src="https://img.icons8.com/?size=512&id=vAtJFm3hwtQw&format=png"/>
+        <img height="80" src="https://img.icons8.com/?size=512&id=vAtJFm3hwtQw&format=png"/>
     </a>
     <a href="https://codeforces.com/profile/bluegrace0206" alt="codeforces">
-        <img height="50" src="https://img.icons8.com/?size=512&id=jldAN67IAsrW&format=png"/>
+        <img height="80" src="https://img.icons8.com/?size=512&id=jldAN67IAsrW&format=png"/>
     </a>
     <a href="https://www.instagram.com/aaryak0206/" alt="instagram">
-        <img height="50" src="https://img.icons8.com/?size=512&id=32323&format=png"/>
+        <img height="80" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif"/>
     </a>
     <a href="https://www.facebook.com/profile.php?id=100015673624271" alt="facebook">
-        <img height="50" src="https://img.icons8.com/?size=512&id=uLWV5A9vXIPu&format=png"/>
+        <img height="80" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif"/>
     </a>
     <a href="joinaarya30@gmail.com" alt="mail">
-        <img height="50" src="https://img.icons8.com/?size=512&id=xLIkjgcmFOsC&format=png"/>
+        <img height="80" src="https://img.icons8.com/?size=512&id=xLIkjgcmFOsC&format=png"/>
     </a>
 </p>
 

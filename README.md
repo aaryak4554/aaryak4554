@@ -83,7 +83,7 @@
 
 <h3 align="left">Coding Profiles:</h3>
 
-![](https://cp-logo.vercel.app/codechef/bluegrace0206) <!-- codechef -->
+![](https://cp-logo.vercel.app/codechef/aaryak0000) <!-- codechef -->
 
 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=bluegrace0206) <!-- codeforces -->
 

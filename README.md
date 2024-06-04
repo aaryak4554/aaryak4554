@@ -1,12 +1,12 @@
 [![An image of banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Hi👋, I'm Aarya Khandare</h1>
+<h1 align="center">Hi, I'm Aarya</h1>
 <h2 align="center">EE Pre-Final Year @ MNNIT, A</h2>
 <h3 align="center">A dedicated web developer hailing from Maharashtra, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryak4554&label=Profile%20views&color=0e75b6&style=flat" alt="aaryak4554" /> </p>
 
-- 🌱 I’m currently learning: **React, Redux**
+- 🌱 I’m currently learning: **Typescript, Nextjs, Framer Motion**
   
 - 👨‍💻 All of my projects are available at [https://github.com/aaryak4554](https://github.com/aaryak4554)
   
